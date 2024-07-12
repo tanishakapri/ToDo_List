@@ -1,4 +1,3 @@
-
     let form = document.getElementById("forml");
     let textIn = document.getElementById("textInput");
     let dateIn = document.getElementById("dateInput");
